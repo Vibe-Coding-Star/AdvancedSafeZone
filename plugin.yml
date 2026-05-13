@@ -1,0 +1,12 @@
+name: AdvancedSafeZone
+version: 1.0.0
+main: AdvancedSafeZone\Main
+api: 5.0.0
+author: Gemini
+permissions:
+  sz.admin:
+    default: op
+    description: "Admin access for Advanced Safe Zone features"
+  sz.bypass:
+    default: op
+    description: "Bypass zone restrictions inside a Safe Zone"
